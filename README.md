@@ -1,2 +1,2 @@
-# C-Bank-Management-System
- Bank management system written in C language
+# Bank-Management-System
+ Basic bank management system written in C language.
